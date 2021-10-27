@@ -5,6 +5,8 @@ function boop() {
 
 	if (num==123) {
 		text = "Yaaaay! Magisk tal!!!"
+	} elif (num==3735) {
+		text = "<img src='DSC00003.JPG' alt='Italian Trulli'>"
 	} else {
 
 		incorrect = num % 4;
@@ -28,5 +30,5 @@ function boop() {
 	}
 
 	var clueDiv = document.getElementById("clue")
-	clueDiv.innerHTML = "<p>" + text + "!</p>"
+	clueDiv.innerHTML = "<\br>" + text
 }
