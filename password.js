@@ -1,6 +1,7 @@
 function boop() {
 
-
+	console.log("Hello");
+	
 	let num = document.getElementById("number").value;
 
 	if (num==123) {
