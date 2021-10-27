@@ -1,13 +1,13 @@
 function boop() {
 
-	console.log("Hello");
-	
+
 	let num = document.getElementById("number").value;
 
 	if (num==123) {
 		text = "Yaaaay! Magisk tal!!!"
-	} elif (num==3735) {
-		text = "<img src='DSC00003.JPG' alt='Italian Trulli'>"
+	} else if (num==3735) {
+		text = "<img src='DSC00003.JPG' width='90%' alt='Danish beauty'>"
+
 	} else {
 
 		incorrect = num % 4;
@@ -31,5 +31,5 @@ function boop() {
 	}
 
 	var clueDiv = document.getElementById("clue")
-	clueDiv.innerHTML = "<\br>" + text
+	clueDiv.innerHTML = "<br>" + text
 }
