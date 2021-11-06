@@ -8,7 +8,7 @@ function boop() {
 	} else if (num==3735) {
 		text = "<img src='images/DSC00003.JPG' width='90%' alt='Danish beauty'>"
 	} else if (num==1993) {
-		text = "Kære søde sveskemås, snorketrold, englebasse <3 <br><br> Jeg håber du har haft en dejlig dag, og har en lille smule energi tilbage til en lille skattejagt! Jeg har gemt 5 (?) små breve med opgaver  rundt omkring med små opgaver til dig. Hver opgave vil give dig en kode, som du kan bruge på denne hjemmeside til at få et nyt hint. Den sidste kode vil røbe hvor du kan finde din gave! (hvis du altså ikke allerede har fundet den inden din fødselsdag..). <br> Hvis du har brug for hjælp kan du bare skrive til mig, så kan jeg hjælpe dig i den rigtige retning! <br><br> Held og lykke! <br><br> Kærlig hilsen Frej.<br><br><br> Her er et billede af hvor den første opgave er gemt. Det er et sted i køkkenet: <br>"
+		text = "Kære søde sveskemås, snorketrold, englebasse <3 <br><br> Jeg håber du har haft en dejlig dag, og har en lille smule energi tilbage til en lille skattejagt! Jeg har gemt 5 små breve med opgaver rundt omkring med små opgaver til dig. Hver opgave vil give dig en kode, som du kan bruge på denne hjemmeside til at få et nyt hint. Den sidste kode vil røbe hvor du kan finde din gave! (hvis du altså ikke allerede har fundet den inden din fødselsdag..). <br> Hvis du har brug for hjælp kan du bare skrive til mig, så kan jeg hjælpe dig i den rigtige retning! <br><br> Held og lykke! <br><br> Kærlig hilsen Frej.<br><br><br> Her er et billede af hvor den første opgave er gemt. Det er et sted i køkkenet: <br>"
 		text += "<img src='images/IMG_1800.jpg' width='70%' alt='ismaskinen'>"
 	} else if (num==1359) {
 		text = "Godt klaret! Den næste opgave er gemt.... HER!<br>"
